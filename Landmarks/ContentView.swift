@@ -27,6 +27,7 @@ struct ContentView: View {
                     Text("Joshua Tree National Park")
                     Spacer()
                     Text("California")
+                    //hello
                 }
                 .font(.subheadline)
                 .foregroundColor(.secondary)
